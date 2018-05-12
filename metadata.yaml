@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/344
     wikipedia: http://en.wikipedia.org/wiki/Charles_Kingsley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17437#Health-and-Education
 gutenberg_issued: '2005-12-31'
 gutenberg_type: Text
 identifiers:
