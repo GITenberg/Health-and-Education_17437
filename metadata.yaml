@@ -1,0 +1,37 @@
+_repo: Health-and-Education_17437
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kingsley, Charles
+    aliases:
+    - Kingsley, C. (Charles)
+    - Kingley, Charles
+    birthdate: 1819
+    deathdate: 1875
+    gutenberg_agent_id: '344'
+    url: http://www.gutenberg.org/2009/agents/344
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Kingsley
+description: ''
+gutenberg_issued: '2005-12-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17437'
+  lccn: '28004329'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Natural history'
+- !lcsh 'Hygiene'
+- !lcc 'AC'
+tableOfContents: The science of health -- The two breaths -- The tree of knowledge
+  -- Nausicaa in London; or, The lower education of woman -- The air-mothers -- Thrift
+  -- The study of natural history -- On bio-geology -- Heroism -- Superstition --
+  Science -- Grots and groves -- George Buchanan, scholar -- Rondelet, the Huguenot
+  naturalist -- Vesalius, the anatomist.
+title: Health and Education
+url: http://www.gutenberg.org/ebooks/17437
